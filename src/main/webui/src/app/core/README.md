@@ -1,1 +1,0 @@
-# Common / Library functionality for all components is in this folder.

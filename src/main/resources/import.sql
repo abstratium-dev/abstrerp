@@ -1,2 +1,0 @@
--- SQL statements to run on application startup (dev mode only)
--- This file is intentionally empty - data is managed through Flyway migrations
