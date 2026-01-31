@@ -18,3 +18,6 @@ These TODOs are to be resolved by the developer, NOT THE LLM.
 - abstrapay: payment processing
 - abstrabill: billing
 - abstraccount: double entry book keeping
+- grafana et al. for monitoring and alerting
+  - can we use that to monitor the health of the system and alert if services aren't available?
+
