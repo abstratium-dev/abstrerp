@@ -6,9 +6,15 @@ The Enterprise Resource Planning (ERP) System used by abstratium, consisting of 
 
 ## Ports
 
-|Application|Ports|
+|Application|Web|Web-Test|Quinoa|Management|
 |-----------|-----|
-|Abstracore|8082|
+|Abstrauth|8080|-|4200|9002|
+|Abstracore|8081|10081|4201|9003|
+|Abstradex|8082|10082|4202|9004|
+|Abstraccount|8083|10083|4203|9005|
+|Abstrasst|8084|10084|4204|9006|
+|Abstracertification|8085|10085|4205|9007|
+|Abstroutput|8086|10086|4206|9008|
 
 ----
 
