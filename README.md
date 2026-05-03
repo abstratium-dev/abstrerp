@@ -6,7 +6,8 @@ The Enterprise Resource Planning (ERP) System used by abstratium, consisting of 
 
 ## Ports
 
-||Application||Ports||
+|Application|Ports|
+|-----------|-----|
 |Abstracore|8082|
 
 ----
