@@ -4,6 +4,13 @@ The Enterprise Resource Planning (ERP) System used by abstratium, consisting of 
 
 ----
 
+## Ports
+
+||Application||Ports||
+|Abstracore|8082|
+
+----
+
 ## Security
 
 🔒 **Found a security vulnerability?** Please read our [Security Policy](SECURITY.md) for responsible disclosure guidelines.
